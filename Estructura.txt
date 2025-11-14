@@ -1,0 +1,8 @@
+windows-error-diagnostic/
+├── main.py                 # Aplicación principal
+├── event_log_manager.py    # Gestor de logs de Windows
+├── ai_service.py          # Servicio de inteligencia artificial
+├── system_fixer.py        # Herramientas de reparación
+├── config.json            # Configuración de la aplicación
+├── requirements.txt       # Dependencias del proyecto
+└── README.md             # Este archivo
