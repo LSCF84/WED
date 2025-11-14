@@ -28,8 +28,3 @@
 - Windows 10/11
 - Conexión a internet (para análisis con IA)
 - Permisos de administrador (recomendado)
-
-### 1. Clonar el repositorio
-```bash
-git clone https://github.com/tuusuario/windows-error-diagnostic.git
-cd windows-error-diagnostic
