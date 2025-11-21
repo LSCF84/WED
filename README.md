@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛠️ Windows Error Diagnostic with AI 
+# 🛠️ Windows Error Diagnostic with AI (WEDA)
 
 *Diagnóstico inteligente y reparación automática para Windows usando inteligencia artificial*
 
@@ -13,7 +13,7 @@
 
 ## 🌟 Resumen del Proyecto
 
-Este proyecto, Windows Error Diagnostic with AI (WED), es una herramienta de diagnóstico y reparación inteligente diseñada para sistemas operativos Windows (10/11).
+Este proyecto, Windows Error Diagnostic with AI (WEDA), es una herramienta de diagnóstico y reparación inteligente diseñada para sistemas operativos Windows (10/11).
 
 El objetivo principal es aprovechar la Inteligencia Artificial (IA) para analizar de forma proactiva y automática los logs de eventos de Windows, diagnosticar la causa de los errores del sistema y aplicar soluciones automatizadas a problemas comunes. La herramienta ofrece una interfaz de usuario moderna (construida con CustomTkinter) y proporciona reportes detallados del análisis y la reparación.
 
@@ -60,8 +60,8 @@ El objetivo principal es aprovechar la Inteligencia Artificial (IA) para analiza
 
 1.  **Clona el repositorio**
     ```bash
-    git clone https://github.com/LSCF84/WED.git
-    cd WED
+    git clone Windows-Error-Diagnostic-with-AI_WEDA.git
+    cd WEDA
     ```
 2.  **Instala dependencias**
     ```bash
